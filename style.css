@@ -1,0 +1,14 @@
+.Caixa-principal{
+    color: #2BDEFD;
+}
+
+body{
+  background-color: #0B0D20;
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.Texto-resultado{
+    color: #D7F9FF;
+}
